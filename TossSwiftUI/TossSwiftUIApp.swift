@@ -11,7 +11,7 @@ import SwiftUI
 struct TossSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+			  DamagochiView()
         }
     }
 }
